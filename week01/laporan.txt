@@ -1,0 +1,1 @@
+in week 01 we are asked to get to the terminal and make some file that later will be pushed to github.
